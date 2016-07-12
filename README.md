@@ -3,4 +3,4 @@ Tiny executable that blocks and waits for any signal and then exit (intended for
 
 Works on `x86` and `x86_64` platforms, without any dependencies.
 
-Size of assembled executable: 520 bytes.
+Size of assembled executable: 308 bytes.
